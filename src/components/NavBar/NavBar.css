@@ -1,0 +1,15 @@
+.navBar {
+  height: 3em;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  position:fixed;
+  top:0px;
+  width:100%
+}
+
+.lista-navBar{
+  list-style: none;
+  display:flex;
+  justify-content: space-between;
+  margin:0px;
+  padding:0px;
+}
